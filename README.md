@@ -4,28 +4,15 @@
 
 另外，还有此主题的[Ghost版本](https://github.com/eastpiger/ghost-theme-H2O) by [eastpiger](https://github.com/eastpiger)
 
-### Preview
+#### [在线预览 Preview →](http://liaokeyu.com/)
 
-#### [在线预览 Live Demo →](http://liaokeyu.com/)
+如果你喜欢这个博客模板，请移步作者github(下，非常感谢～
 
-![](screenshot/jekyll-theme-h2o-realhome.jpg)
-
-![](screenshot/jekyll-theme-h2o-realm.png)
-
-如果你喜欢这个博客模板，请在右上角star一下，非常感谢～
-
-If you like this theme or using it, please give a ⭐️ for motivation ;)
-
-如果想体验手机浏览效果，可以扫一下二维码：
-
-![](screenshot/1494404591.png)
-
-Using your smartphone to scan the QR Code
+If you like this theme or using it, please click the preview :)
 
 ### Features 特性
 
 #### CN
-
 - 代码高亮
 - 夜间模式
 - Disqus评论系统
@@ -39,7 +26,6 @@ Using your smartphone to scan the QR Code
 - 复制文章内容自动添加版权
 
 #### EN
-
 - Code highlight
 - Night mode
 - Disqus Comment System
@@ -55,25 +41,17 @@ Using your smartphone to scan the QR Code
 ### Usage 快速开始
 
 首先你需要安装Jekyll，请查看文档: [快速指南](http://jekyll.com.cn/docs/quickstart/)
-
 如果你已经安装了Jekyll，请检查版本是否为3.0.x，你可以使用 ```gem update jekyll``` 命令进行升级。
-
 使用 ```gem install jekyll-paginate``` 或 ```sudo gem install jekyll-paginate``` 安装Jekyll的分页插件。
-
 > H2O主题基于Jekyll 3.2.1版本，不同版本之间可能存在部分差异，具体请参考[官方更新文档](https://jekyllrb.com/news/)
-
 点击右上角Fork按钮在你的Github上创建分支，或者```clone```到本地。
-
 ``` git clone https://github.com/kaeyleo/jekyll-theme-H2O.git ```
-
 最后，在命令行输入 ```jekyll server``` 开启服务，就能在本地预览主题了。
-
 如果需要部署到线上环境，请参照配置文档的 **开始** 章节进行操作。
 
 ### Document 配置文档
 
 #### CN
-
 - 开始
 	- [站点信息](#站点信息)
 	- [写一篇文章](#写一篇文章)
@@ -96,7 +74,6 @@ Using your smartphone to scan the QR Code
 	- [Share.js](#sharejs)
 
 #### EN
-
 - Get Started
 	- [Site Settings](#站点信息)
 	- [Write Posts](#写一篇文章)
@@ -127,10 +104,10 @@ You can easily get started by modifying _config.yml
 
 ```
 # Site settings
-title: '廖柯宇的独立博客' # 你的博客网站标题
+title: 'XXX的独立博客' # 你的博客网站标题
 description: '很高兴能在这里与你分享我对技术和生活的思考。' # 站点描述
-keyword: '廖柯宇, 廖柯宇的独立博客, 前端, 设计' # 网站关键词
-url: 'http://liaokeyu.com' # 站点url
+keyword: '关键词1, 关键词2, 关键词3 # 网站关键词
+url: 'http://.....' # 站点url
 baseurl: ''
 
 # Build settings
@@ -178,8 +155,6 @@ exclude: ['node_modules', 'dev', 'package.json', '自定义的文件夹名字']
 
 #### 侧边栏
 
-![](screenshot/jekyll-theme-h2o-sideBar.png)
-
 侧边栏分为两个部分：【个人简介】和【推荐标签】。当屏幕宽度小于960px时，侧边栏会被隐藏。
 
 #### 社交图标
@@ -191,10 +166,10 @@ exclude: ['node_modules', 'dev', 'package.json', '自定义的文件夹名字']
 ```
 # SNS settings 配置社交网站url
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  weibo: '//weibo.com/...'
+  juejin: '//juejin.im/user/...'
+  instagram: '//www.instagram.com/...'
+  github: '//github.com/...'
 ```
 
 sns属性可选参数：
@@ -271,9 +246,6 @@ search: true
 模板引入了[Prism.js](http://prismjs.com)，一款轻量、可扩展的代码语法高亮库。
 
 很多知名网站如[MDN](https://developer.mozilla.org/)、[css-tricks](https://css-tricks.com/)也在用它，就连 JavaScript 之父 [Brendan Eich](https://brendaneich.com/) 也在个人博客上使用。
-
-![代码高亮](http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-highlight.png)
-
 遵循 [HTML5](https://www.w3.org/TR/html5/grouping-content.html#the-pre-element) 标准，Prism 使用语义化的 `<pre>` 元素和 `<code>` 元素来标记代码区块：
 
 ```
@@ -282,13 +254,11 @@ search: true
 
 在Markdown中你可以这样写：
 
-
 	 ```css
 		p { color: red }
 	 ```
 
 支持语言：
-
 - HTML
 - CSS
 - Sass
@@ -317,8 +287,6 @@ nightMode: true
 
 #### 主题皮肤
 
-![](screenshot/jekyll-theme-h2o-themecolor.jpg)
-
 支持两种主题颜色蓝色（默认）和粉色
 
 主要效果体现在首页博客封面、顶部导航栏的logo以及鼠标悬停时文字显示的颜色效果。
@@ -338,7 +306,7 @@ theme-color: 'default' # pink or default
 ```
 ---
 layout: default
-home-title: Steven的博客
+home-title: XXX的博客
 description: 开发者，创造者
 header-img: assets/img/banner.jpg
 ---
