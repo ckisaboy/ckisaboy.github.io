@@ -31,7 +31,7 @@ nightMode: false
 # Comments 评论功能
 comments:
   disqus: true
-  disqus_url: ''
+  disqus_url: '//weibo.com/p/1005052359085651'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
