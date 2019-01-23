@@ -3,7 +3,7 @@ layout: post
 title: 'Hello Jekyll'
 date: 2019-01-22
 author: Jekyll
-cover: 'assets/img/hero.jpg'
+cover: '/assets/img/hero.jpg'
 tags: jekyll
 ---
 
