@@ -3,7 +3,6 @@ layout: post
 title: MathJax Test
 date: 2017-07-30
 categories: test
-cover: 'hero.jpg'
 tags: mathjax 
 ---
 
