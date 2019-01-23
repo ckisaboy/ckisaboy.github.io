@@ -993,7 +993,7 @@ a {
       line-height: 20px; }
     .article-list .article-item .post-meta {
       margin-top: 12px; }
-      .article-list .article-item .post-meta .post-tags {
+      .article-list .article-item .post-meta/*  .post-tags */ {
         display: none; }
       .article-list .article-item .post-meta .post-date {
         float: left;
