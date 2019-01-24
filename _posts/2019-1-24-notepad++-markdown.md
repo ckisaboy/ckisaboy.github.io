@@ -17,9 +17,9 @@ tags: 工具 Markdown
 
 效果图  
 
-![](//img/2019-01-24-1.jpg)  
+![](/img/2019-01-24-1.jpg)  
 
-![](/assests/img/2019-01-24-2.jpg)
+![](img/2019-01-24-2.jpg)
 
 
 ### 使Notepad++支持Makedown语法
