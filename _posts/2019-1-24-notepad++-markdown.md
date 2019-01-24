@@ -11,7 +11,7 @@ tags: 工具 Markdown
 首先说明一点，Notepad++内置并不支持Markdown的语法。  
 先上一个效果图分为两个步骤
 
- - [使Notepad++支持Makedown语法](#使notepad++支持makedown语法)
+ - [使Notepad++支持Makedown语法](#使notepad支持makedown语法)
 
  - [使Notepad++支持Makedown预览](#使Notepad++支持Makedown预览)
 
