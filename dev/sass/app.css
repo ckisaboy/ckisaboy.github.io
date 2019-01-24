@@ -963,7 +963,7 @@ a {
 
 @media screen and (max-width: 500px) {
   .home-banner {
-    height: 400px; }
+    height: 360px; }
     .home-banner h2 {
       padding-top: 180px;
       font-size: 28px;
