@@ -4,14 +4,13 @@ title: '使Notepad++中支持Markdown并预览'
 subtitle: '利用插件使Notepad++支持Maekdown语法'
 date: 2019-01-24
 author: CK
-cover: ''
 categories: 工具
 tags: 工具 Markdown
 ---
 
 首先说明一点，Notepad++内置并不支持Markdown的语法。
 先上一个效果图分为两个步骤  
-1. [使Notepad++支持Maekdown语法](#使Notepad++支持Maekdown语法)
+1. [使Notepad++支持Maekdown语法](#使notepad++支持maekdown语法)
 2. [使Notepad++支持Maekdown预览](#使Notepad++支持Maekdown预览)
 
 效果图  
