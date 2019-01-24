@@ -13,12 +13,13 @@ tags: 工具 Markdown
 
  - [使Notepad++支持Makedown语法](#使notepad支持makedown语法)
 
- - [使Notepad++支持Makedown预览](#使Notepad++支持Makedown预览)
+ - [使Notepad++支持Makedown预览](#使Notepad支持Makedown预览)
 
 效果图  
-![](img/2019-01-24-1.jpg)  
 
-![](_posts/img/2019-01-24-2.jpg)
+![](/img/2019-01-24-1.jpg)  
+
+![](/_posts/img/2019-01-24-2.jpg)
 
 
 ### 使Notepad++支持Makedown语法
