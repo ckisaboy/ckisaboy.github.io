@@ -10,13 +10,13 @@ tags: 工具 Markdown
 
 首先说明一点，Notepad++内置并不支持Markdown的语法。
 先上一个效果图分为两个步骤  
-1. - [使Notepad++支持Maekdown语法](#使notepad++支持maekdown语法)
+- [使Notepad++支持Maekdown语法](#使notepad++支持maekdown语法)
 
 [使Notepad++支持Maekdown预览](#使Notepad++支持Maekdown预览)
 
 效果图  
-![使Notepad++支持Maekdown语法](/img/
-![使Notepad++支持Maekdown预览]
+![使Notepad++支持Maekdown语法](/img/2019-01-24-1.jpg)
+![使Notepad++支持Maekdown预览](/_posts/img/2019-01-24-2.jpg)
 
 
 ### 使Notepad++支持Maekdown语法
