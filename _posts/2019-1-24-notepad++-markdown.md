@@ -19,7 +19,7 @@ tags: 工具 Markdown
 
 ![](/img/2019-01-24-1.jpg)  
 
-![](../img/2019-01-24-2.jpg)
+![](/img/2019-01-24-2.jpg)
 
 
 ### 使Notepad++支持Makedown语法
