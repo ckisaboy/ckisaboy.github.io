@@ -8,7 +8,7 @@ categories: 工具
 tags: 工具 Markdown
 ---
 
-首先说明一点，Notepad++内置并不支持Markdown的语法。
+首先说明一点，Notepad++内置并不支持Markdown的语法。  
 先上一个效果图分为两个步骤
 
  - [使Notepad++支持Makedown语法](#使notepad++支持makedown语法)
@@ -16,7 +16,8 @@ tags: 工具 Markdown
  - [使Notepad++支持Makedown预览](#使Notepad++支持Makedown预览)
 
 效果图  
-![](img/2019-01-24-1.jpg)
+![](img/2019-01-24-1.jpg)  
+
 ![](_posts/img/2019-01-24-2.jpg)
 
 
