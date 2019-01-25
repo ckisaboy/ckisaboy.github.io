@@ -147,15 +147,10 @@
 
   <script src="/assets/js/prism.js"></script>
   <script src="/assets/js/index.min.js"></script>
-  
-  
-  <!--载入js，在</body>之前插入即可-->
-    <!--Leancloud 操作库:-->
-    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <!--Valine 的核心代码库-->
-    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-    <script>
-        new Valine({
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='/assets/js/Valine.min.js'></script>
+  <script>
+  new Valine({
             // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
             av: AV, 
             el: '.comment',
@@ -165,7 +160,7 @@
             app_key: 'M0Xd0Fgeb8CU3f9fBF1L1YMq', // 这里填写上面得到的APP KEY
             placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊!', // 留言框占位提示文字
         });
-    </script>
+		</script>
 </body>
 
 </html>
