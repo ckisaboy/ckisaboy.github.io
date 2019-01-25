@@ -29,9 +29,18 @@ search: true
 nightMode: false
 
 # Comments 评论功能
-comments:
-  disqus: false
-  disqus_url: ''
+valine_comment:
+  enable: true
+# app_id
+  leancloud_appid: AfxffrR96Vfu48S1y73BnNBP-gzGzoHsz
+# app_key
+  leancloud_appkey: M0Xd0Fgeb8CU3f9fBF1L1YMq
+# placeholde
+  placeholder: “Just go go"
+
+#comments:
+#  disqus: false
+#  disqus_url: ''
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
